@@ -1,0 +1,19 @@
+
+
+img {
+    max-height: 200px;
+    max-width: 200px;
+    margin-left: 5px;
+    background-color: white;
+}
+
+form {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+#Animal_Buttons {
+    background-color: black;
+    color: white;
+}
