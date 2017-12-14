@@ -1,1 +1,1 @@
-# TriviaGame
+# Animal Gifs
